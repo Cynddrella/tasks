@@ -11,5 +11,3 @@ for num in ourList:
         print (num)
         belowFive = list()
         belowFive.append(num)
-
-print (belowFive)
